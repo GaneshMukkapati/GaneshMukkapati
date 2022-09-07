@@ -1,5 +1,12 @@
 ### Hi there 👋
+* 👋 Hey, This is Ganesh Raghunadh Mukkapati .
+* 🔭 I’m currently Doing my Masters in Northwest Missouri State University.
+* 🌱 Courses Done---->Web Development, Java, Advance DataBase Systems, Application Designs and Frameworks.
+* 👯 I’m looking to collaborate on Machine Learning projects.
+* 🤔 I’m looking for help with Java programming.
+* 💬 Ask me about Sports in india.
 
+# Ganesh Raghunadh Mukkapati
 <!--
 **GaneshMukkapati/GaneshMukkapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
